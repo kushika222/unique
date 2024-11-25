@@ -1,0 +1,9 @@
+import react from 'react';
+import reactDOM from 'react-dom';
+function hello(){
+ return<div>
+ <h1>hello pagal!</h1>
+ <h2>welcome to shed</h2>
+ </div>
+ }
+ export default hello;
